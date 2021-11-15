@@ -1,0 +1,15 @@
+<extensions>
+	<details>
+		<title lang="EN">AF-1 Repo - Dynamic Playlists</title>
+	</details>
+	<plugins>
+		<plugin name="SQLPlayList" version="2.7" minTarget="7.9" maxTarget="*">
+			<title lang="EN">SQL Playlist</title>
+			<desc lang="EN">Unsupported and no longer maintained. If this plugin stops working or being compatible with other plugins there will be no further updates and no support. No guarantees.</desc>
+			<url>https://github.com/AF-1/lms-sqlplaylist/releases/download/2.7/lms-sqlplaylist-2.7.zip</url>
+			<creator>Unsupported</creator>
+			<link>https://github.com/AF-1/lms-sqlplaylist</link>
+			<sha>1ce40d3cf1dedf7b8682eb97f631da173a14c26b</sha>
+		</plugin>
+	</plugins>
+</extensions>
