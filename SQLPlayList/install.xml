@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<extension>
+  <id>ED8D4FA4-7169-11DC-ACA7-9D5635810EEF</id>
+  <name>PLUGIN_SQLPLAYLIST</name>
+  <module>Plugins::SQLPlayList::Plugin</module>
+  <version>2.7</version>
+  <description>SETUP_PLUGIN_SQLPLAYLIST_GROUP_DESC</description>
+  <creator>Unsupported</creator>
+  <optionsURL>plugins/SQLPlayList/settings/basic.html</optionsURL>
+  <defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>Logitech Media Server</id>
+		<minVersion>7.9</minVersion>
+		<maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>
